@@ -1,6 +1,6 @@
 ## [原地址](https://leetcode.cn/circle/discuss/MDq50z/)
 
-select、poll、epoll？
+select、poll、epoll？什么叫socket？
 
 epoll的两种触发模式？
 
