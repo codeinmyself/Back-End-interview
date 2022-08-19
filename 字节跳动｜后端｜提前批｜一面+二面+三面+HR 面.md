@@ -1,6 +1,6 @@
 ## [原地址](https://leetcode.cn/circle/discuss/MDq50z/)
 
-select、poll、epoll？什么叫socket？
+select、poll、epoll？什么叫socket？什么是PCB？
 
 epoll的两种触发模式？
 
